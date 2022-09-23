@@ -7,3 +7,23 @@ As an industry, Tourism, and Hospitality are important for the economic growth o
 -	To design an optimized database management system that can be used to pull out the right information in minimal time
 -	To create an entity-relationship diagram that defines all the entities and their attributes 
 -	To prepare datasets that can be as informative as needed for a tourist to plan their trip
+
+#### Team Members:
+<table>
+  <tr>
+    <th>Names</th>
+    <th>NU ID</th>
+  </tr>
+  <tr>
+    <td>Naman Gupta</td>
+    <td>002729751</td>
+  </tr>
+  <tr>
+    <td>Dipika Mohanty</td>
+    <td>002770528</td>
+  </tr>
+  <tr>
+    <td>Rahul GR</td>
+    <td>002767096</td>
+  </tr>
+</table>
