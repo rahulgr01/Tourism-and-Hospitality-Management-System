@@ -1,0 +1,24 @@
+Assignment 2
+Tourism and Hospitality Management System
+
+Background:
+As an industry, Tourism, and Hospitality are important for the economic growth of the country. However, from a tourist’s point of view, planning out travel has always been a hassle and a time taking process. Through this project, we would like to build a Database Management System that would suffice all the challenges that a tourist faces in planning a trip and finding accommodation. The idea behind this project is to develop a database consisting of tourist attractions, hotels, restaurants, local transportation, tour guides, emergency services, etc. Additionally, we plan to implement a feature that lets users socialize with those who are planning their travel on the same date and location.
+
+Ten non-trivial questions for the database.
+1.	What impact has Covid-19 (March 2020 - Dec 2021) had on tourism and reservation?
+2.	What are the different modes of inbound and outbound transportation available in a city for tourists? List out the top cities having good transportation facilities and also identify cities having more footfall but not having good transportation facilities.
+3.	Which community (neighborhood) based on season, and footfall count is most attractive in a city or state for hotel or restaurant investors? 
+4.	Calculate the hotel’s total revenue in the city and compare the statistics with the other cities in the state? 
+5.	What are the top ideal places and time to visit by city and state (Tourist attractions and their timings, ex: Museum of Fine Arts (10 am – 5 pm))?
+6.	Identify top unique trends (Ranking by Categories: Art & History, Nature, Wildlife, Spiritual, Entertainment, Sports) in the Tourism database based on the bookings and create versatile itineraries based on tourist preference? 
+7.	Identify the top 10 arrivals (Ranking based on the sum of arrivals) by city and state of origin?
+8.	Find the minimum and maximum ratings of the hotel, restaurants, and tourist attractions. With the obtained data provide suitable suggestions to the customer (Based on the budget, and reviews).
+9.	Which state has the maximum number of hotels (accommodation and stays) in the USA having more than 1000 reviews?
+10.	What are the top amusement parks in the USA? What proportion of the age group visits theme parks and amusement parks?
+11.	Where do we see most arrivals, overnights, and occupancy (State and City)?
+
+Team Members:
+Names	NU ID
+Naman Gupta	002729751
+Dipika Mohanty	002770528
+Rahul GR	002767096
