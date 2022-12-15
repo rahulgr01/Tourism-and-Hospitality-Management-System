@@ -1,0 +1,770 @@
+city,state
+Dothan,Alabama
+Auburn,Alabama
+Enterprise,Alabama
+Gadsden,Alabama
+Montgomery,Alabama
+Huntsville,Alabama
+Birmingham,Alabama
+Selma,Alabama
+Tuscaloosa,Alabama
+Florence,Alabama
+Mobile,Alabama
+Ketchikan,Alaska
+Wrangell,Alaska
+Hydaburg,Alaska
+Juneau,Alaska
+Skagway,Alaska
+Sitka,Alaska
+Hoonah,Alaska
+Yakutat,Alaska
+Eagle,Alaska
+Tanacross,Alaska
+Kaktovik,Alaska
+Circle,Alaska
+Fort Yukon,Alaska
+Gulkana,Alaska
+Cordova,Alaska
+Big Delta,Alaska
+Valdez,Alaska
+Fairbanks,Alaska
+Prudhoe Bay,Alaska
+Whittier,Alaska
+Denali Park,Alaska
+Cantwell,Alaska
+Nenana,Alaska
+Palmer,Alaska
+Wasilla,Alaska
+Seward,Alaska
+Anchorage,Alaska
+Montana,Alaska
+Wiseman,Alaska
+Talkeetna,Alaska
+Kenai,Alaska
+Homer,Alaska
+Tanana,Alaska
+Lake Minchumina,Alaska
+Kodiak,Alaska
+Allakaket,Alaska
+Hughes,Alaska
+Karluk,Alaska
+Newhalen,Alaska
+McGrath,Alaska
+King Salmon,Alaska
+Barrow,Alaska
+Kobuk,Alaska
+Galena,Alaska
+Red Devil,Alaska
+Atqasuk,Alaska
+Pilot Point,Alaska
+Koyukuk,Alaska
+Ambler,Alaska
+Chignik,Alaska
+Dillingham,Alaska
+Port Heiden,Alaska
+Kaltag,Alaska
+Perryville,Alaska
+Aniak,Alaska
+Nyac,Alaska
+Selawik,Alaska
+Wainwright,Alaska
+Togiak,Alaska
+Sand Point,Alaska
+Unalakleet,Alaska
+Koyuk,Alaska
+Goodnews Bay,Alaska
+Bethel,Alaska
+Quinhagak,Alaska
+Kotzebue,Alaska
+Cold Bay,Alaska
+False Pass,Alaska
+Kotlit,Alaska
+Mountain Village,Alaska
+Kivalina,Alaska
+Emmonak,Alaska
+Tununak,Alaska
+Nome,Alaska
+Shishmaref,Alaska
+Hooper Bay,Alaska
+Mekoryuk,Alaska
+Teller,Alaska
+Unalaska,Alaska
+Point Hope,Alaska
+Wales,Alaska
+Nikolski,Alaska
+Gambell,Alaska
+Atka,Alaska
+Douglas,Arizona
+Safford,Arizona
+Willcox,Arizona
+Tombstone,Arizona
+Winslow,Arizona
+Tucson,Arizona
+Flagstaff,Arizona
+Mesa,Arizona
+Casa Grande,Arizona
+Scottsdale,Arizona
+Phoenix,Arizona
+Grand Canyon,Arizona
+Glendale,Arizona
+Prescott,Arizona
+Gila Bend,Arizona
+Kingman,Arizona
+Lake Havasu City,Arizona
+Bullhead City,Arizona
+Yuma,Arizona
+Paragould,Arkansas
+Jonesboro,Arkansas
+Pine Bluff,Arkansas
+Little Rock,Arkansas
+Conway,Arkansas
+El Dorado,Arkansas
+Hot Springs,Arkansas
+Texarkana,Arkansas
+Fayetteville,Arkansas
+Fort Smith,Arkansas
+Needles,California
+El Centro,California
+Palm Springs,California
+Barstow,California
+National City,California
+San Diego,California
+Victorville,California
+San Bernardino,California
+Oceanside,California
+Riverside,California
+Irvine,California
+Lancaster,California
+Pasadena,California
+Long Beach,California
+Los Angeles,California
+Bishop,California
+Bakersfield,California
+Delano,California
+Visalia,California
+Tulare,California
+Santa Barbara,California
+Fresno,California
+Santa Maria,California
+Merced,California
+San Luis Obispo,California
+Paso Robles,California
+Modesto,California
+Stockton,California
+Sacramento,California
+Yuba City,California
+Salinas,California
+Chico,California
+San Jose,California
+Monterey,California
+Santa Cruz,California
+Oakland,California
+Vallejo,California
+Berkeley,California
+Mt. Shasta,California
+San Mateo,California
+Redding,California
+San Francisco,California
+Santa Rosa,California
+Ukiah,California
+Mendocino,California
+Arcata,California
+Eureka,California
+Crescent City,California
+Lamar,Colorado
+Trinidad,Colorado
+Pueblo,Colorado
+Greeley,Colorado
+Colorado Springs,Colorado
+Aurora,Colorado
+Denver,Colorado
+Fort Collins,Colorado
+Boulder,Colorado
+Gunnison,Colorado
+Glenwood Springs,Colorado
+Craig,Colorado
+Montrose,Colorado
+Durango,Colorado
+Grand Junction,Colorado
+New London,Connecticut
+Hartford,Connecticut
+New Haven,Connecticut
+Waterbury,Connecticut
+Bridgeport,Connecticut
+Stamford,Connecticut
+Dover,Delaware
+Wilmington,Delaware
+"Washington, D.C.",District of Columbia
+West Palm Beach,Florida
+Miami Beach,Florida
+Fort Lauderdale,Florida
+Miami,Florida
+Coral Springs,Florida
+Coral Gables,Florida
+Fort Pierce,Florida
+Vero Beach,Florida
+Homestead,Florida
+Melbourne,Florida
+Titusville,Florida
+Daytona Beach,Florida
+Palm Coast,Florida
+Sanford,Florida
+St. Augustine,Florida
+Orlando,Florida
+Kissimmee,Florida
+Palatka,Florida
+Jacksonville,Florida
+Winter Haven,Florida
+Key West,Florida
+Naples,Florida
+Ft. Myers,Florida
+Leesburg,Florida
+Cape Coral,Florida
+Port Charlotte,Florida
+Ocala,Florida
+Gainesville,Florida
+Tampa,Florida
+Sarasota,Florida
+Spring Hill,Florida
+Lake City,Florida
+St. Petersburg,Florida
+Tallahassee,Florida
+Apalachicola,Florida
+Panama City,Florida
+Crestview,Florida
+Pensacola,Florida
+Savannah,Georgia
+Brunswick,Georgia
+Augusta,Georgia
+Waycross,Georgia
+Douglas,Georgia
+Dublin,Georgia
+Valdosta,Georgia
+Athens,Georgia
+Macon,Georgia
+Albany,Georgia
+Atlanta,Georgia
+Marietta,Georgia
+Dalton,Georgia
+Columbus,Georgia
+La Grange,Georgia
+Hilo,Hawaii
+Kailua-Kona,Hawaii
+Wailuku,Hawaii
+Honolulu,Hawaii
+Wahiawa,Hawaii
+Lihue,Hawaii
+Montpelier,Idaho
+Idaho Falls,Idaho
+Pocatello,Idaho
+Burley,Idaho
+Salmon,Idaho
+Twin Falls,Idaho
+Wallace,Idaho
+Boise,Idaho
+Caldwell,Idaho
+Coeur d'Alene,Idaho
+Lewiston,Idaho
+Evanston,Illinois
+Chicago,Illinois
+Waukegan,Illinois
+Kankakee,Illinois
+Joliet,Illinois
+Urbana,Illinois
+Elgin,Illinois
+Aurora,Illinois
+Decatur,Illinois
+Bloomington,Illinois
+Rockford,Illinois
+Carbondale,Illinois
+Cape Girardeau,Illinois
+Springfield,Illinois
+Peoria,Illinois
+Belleville,Illinois
+Alton,Illinois
+Galesburg,Illinois
+Rock Island,Illinois
+Quincy,Illinois
+Richmond,Indiana
+Fort Wayne,Indiana
+Muncie,Indiana
+Marion,Indiana
+New Albany,Indiana
+Elkhart,Indiana
+Kokomo,Indiana
+Indianapolis,Indiana
+South Bend,Indiana
+Bloomington,Indiana
+Lafayette,Indiana
+Gary,Indiana
+Terre Haute,Indiana
+Evansville,Indiana
+Davenport,Iowa
+Dubuque,Iowa
+Burlington,Iowa
+Iowa City,Iowa
+Cedar Rapids,Iowa
+Waterloo,Iowa
+Ottumwa,Iowa
+Mason City,Iowa
+Ames,Iowa
+Des Moines,Iowa
+Ft. Dodge,Iowa
+Spencer,Iowa
+Council Bluffs,Iowa
+Sioux City,Iowa
+Kansas City,Kansas
+Lawrence,Kansas
+Coffeyville,Kansas
+Topeka,Kansas
+Emporia,Kansas
+Manhattan,Kansas
+Wichita,Kansas
+Salina,Kansas
+Hutchinson,Kansas
+Hays,Kansas
+Dodge City,Kansas
+Garden City,Kansas
+Goodland,Kansas
+London,Kentucky
+Lexington,Kentucky
+Covington,Kentucky
+Frankfort,Kentucky
+Louisville,Kentucky
+Bowling Green,Kentucky
+Owensboro,Kentucky
+Hopkinsville,Kentucky
+Madisonville,Kentucky
+Paducah,Kentucky
+Slidell,Louisiana
+New Orleans,Louisiana
+Metairie,Louisiana
+Houma,Louisiana
+Baton Rouge,Louisiana
+New Iberia,Louisiana
+Lafayette,Louisiana
+Monroe,Louisiana
+Alexandria,Louisiana
+Lake Charles,Louisiana
+Shreveport,Louisiana
+Calais,Maine
+Houlton,Maine
+Presque Isle,Maine
+Bar Harbor,Maine
+Bangor,Maine
+Waterville,Maine
+Augusta,Maine
+Lewiston,Maine
+Portland,Maine
+Annapolis,Maryland
+Baltimore,Maryland
+St. Charles,Maryland
+Hagerstown,Maryland
+Cumberland,Maryland
+Salem,Massachusetts
+New Bedford,Massachusetts
+Boston,Massachusetts
+Lowell,Massachusetts
+Worcester,Massachusetts
+Springfield,Massachusetts
+Pittsfield,Massachusetts
+Detroit,Michigan
+Pontiac,Michigan
+Alpena,Michigan
+Flint,Michigan
+Ann Arbor,Michigan
+Bay City,Michigan
+Saginaw,Michigan
+Sault Ste. Marie,Michigan
+Lansing,Michigan
+Petoskey,Michigan
+Battle Creek,Michigan
+Cadillac,Michigan
+Kalamazoo,Michigan
+Traverse City,Michigan
+Grand Rapids,Michigan
+Muskegon,Michigan
+Benton Harbor,Michigan
+Escanaba,Michigan
+Marquette,Michigan
+Iron Mountain,Michigan
+Hancock,Michigan
+Ironwood,Michigan
+Winona,Minnesota
+Ely,Minnesota
+Duluth,Minnesota
+Rochester,Minnesota
+Virginia,Minnesota
+St. Paul,Minnesota
+Lakeville,Minnesota
+Minneapolis,Minnesota
+Faribault,Minnesota
+Albert Lea,Minnesota
+International Falls,Minnesota
+Mankato,Minnesota
+St. Cloud,Minnesota
+Brainerd,Minnesota
+Bemidji,Minnesota
+Willmar,Minnesota
+Crookston,Minnesota
+Moorhead,Minnesota
+Tupelo,Mississippi
+Meridian,Mississippi
+Biloxi,Mississippi
+Gulfport,Mississippi
+Laurel,Mississippi
+Hattiesburg,Mississippi
+Southaven,Mississippi
+Jackson,Mississippi
+Vicksburg,Mississippi
+Greenville,Mississippi
+Natchez,Mississippi
+St. Louis,Missouri
+Poplar Bluff,Missouri
+St. Charles,Missouri
+Jefferson City,Missouri
+Columbia,Missouri
+Kirksville,Missouri
+Springfield,Missouri
+Independence,Missouri
+Joplin,Missouri
+Kansas City,Missouri
+St. Joseph,Missouri
+Glendive,Montana
+Miles City,Montana
+Glasgow,Montana
+Hardin,Montana
+Billings,Montana
+Havre,Montana
+Bozeman,Montana
+Great Falls,Montana
+Helena,Montana
+Butte,Montana
+Dillon,Montana
+Missoula,Montana
+Polson,Montana
+Kalispell,Montana
+Omaha,Nebraska
+Lincoln,Nebraska
+Norfolk,Nebraska
+Grand Island,Nebraska
+Kearney,Nebraska
+McCook,Nebraska
+North Platte,Nebraska
+Alliance,Nebraska
+Sidney,Nebraska
+Chadron,Nebraska
+Scottsbluff,Nebraska
+Boulder City,Nevada
+Ely,Nevada
+Las Vegas,Nevada
+Elko,Nevada
+Tonopah,Nevada
+Winnemucca,Nevada
+Carson City,Nevada
+Reno,Nevada
+Manchester,New Hampshire
+Concord,New Hampshire
+Paterson,New Jersey
+Newark,New Jersey
+Atlantic City,New Jersey
+Trenton,New Jersey
+Hobbs,New Mexico
+Clovis,New Mexico
+Tucumcari,New Mexico
+Carlsbad,New Mexico
+Raton,New Mexico
+Roswell,New Mexico
+Las Vegas,New Mexico
+Santa Fe,New Mexico
+Alamogordo,New Mexico
+Los Alamos,New Mexico
+Albuquerque,New Mexico
+Las Cruces,New Mexico
+Socorro,New Mexico
+Truth or Consequences,New Mexico
+Deming,New Mexico
+Farmington,New Mexico
+Gallup,New Mexico
+Plattsburg,New York
+Saratoga Springs,New York
+Albany,New York
+Poughkeepsie,New York
+Schenectady,New York
+New York,New York
+Utica,New York
+Watertown,New York
+Binghamton,New York
+Syracuse,New York
+Ithaca,New York
+Elmira,New York
+Rochester,New York
+Buffalo,New York
+Niagara Falls,New York
+Jamestown,New York
+Kitty Hawk,North Carolina
+Greenville,North Carolina
+Jacksonville,North Carolina
+Rocky Mount,North Carolina
+Wilmington,North Carolina
+Goldsboro,North Carolina
+Raleigh,North Carolina
+Fayetteville,North Carolina
+Durham,North Carolina
+Lumberton,North Carolina
+Greensboro,North Carolina
+Winston-Salem,North Carolina
+Salisbury,North Carolina
+Charlotte,North Carolina
+Hickory,North Carolina
+Asheville,North Carolina
+Fargo,North Dakota
+Grand Forks,North Dakota
+Jamestown,North Dakota
+Devils Lake,North Dakota
+Bismarck,North Dakota
+Minot,North Dakota
+Dickinson,North Dakota
+Williston,North Dakota
+Youngstown,Ohio
+Canton,Ohio
+Akron,Ohio
+Cleveland,Ohio
+Zanesville,Ohio
+Mansfield,Ohio
+Lancaster,Ohio
+Columbus,Ohio
+Toledo,Ohio
+Bowling Green,Ohio
+Springfield,Ohio
+Lima,Ohio
+Dayton,Ohio
+Cincinnati,Ohio
+Muskogee,Oklahoma
+McAlester,Oklahoma
+Tulsa,Oklahoma
+Bartlesville,Oklahoma
+Shawnee,Oklahoma
+Stillwater,Oklahoma
+Ponca City,Oklahoma
+Ardmore,Oklahoma
+Norman,Oklahoma
+Oklahoma City,Oklahoma
+Enid,Oklahoma
+Lawton,Oklahoma
+Woodward,Oklahoma
+Guymon,Oklahoma
+Ontario,Oregon
+La Grande,Oregon
+Pendleton,Oregon
+John Day,Oregon
+Bend,Oregon
+Klamath Falls,Oregon
+Portland,Oregon
+Medford,Oregon
+Springfield,Oregon
+Salem,Oregon
+Albany,Oregon
+Eugene,Oregon
+Corvallis,Oregon
+Grants Pass,Oregon
+Roseburg,Oregon
+Astoria,Oregon
+Tillamook,Oregon
+Coos Bay,Oregon
+Philadelphia,Pennsylvania
+Allentown,Pennsylvania
+Scranton,Pennsylvania
+Wilkes Barre,Pennsylvania
+Lancaster,Pennsylvania
+York,Pennsylvania
+Harrisburg,Pennsylvania
+Williamsport,Pennsylvania
+State College,Pennsylvania
+Altoona,Pennsylvania
+Johnstown,Pennsylvania
+Pittsburgh,Pennsylvania
+Erie,Pennsylvania
+Beaver Falls,Pennsylvania
+Newport,Rhode Island
+Providence,Rhode Island
+Myrtle Beach,South Carolina
+Florence,South Carolina
+Charleston,South Carolina
+Sumter,South Carolina
+Beaufort,South Carolina
+Orangeburg,South Carolina
+Columbia,South Carolina
+Rock Hill,South Carolina
+Aiken,South Carolina
+Spartanburg,South Carolina
+Greenville,South Carolina
+Anderson,South Carolina
+Sioux Falls,South Dakota
+Brookings,South Dakota
+Yankton,South Dakota
+Mitchell,South Dakota
+Aberdeen,South Dakota
+Pierre,South Dakota
+Mobridge,South Dakota
+Rapid City,South Dakota
+Lead,South Dakota
+Johnson City,Tennessee
+Kingsport,Tennessee
+Knoxville,Tennessee
+Oak Ridge,Tennessee
+Chattanooga,Tennessee
+Murfreesboro,Tennessee
+Nashville,Tennessee
+Columbia,Tennessee
+Clarksville,Tennessee
+Jackson,Tennessee
+Barlett,Tennessee
+Memphis,Tennessee
+Port Arthur,Texas
+Beaumont,Texas
+Nacogdoches,Texas
+Lufkin,Texas
+Longview,Texas
+Galveston,Texas
+Texas City,Texas
+Baytown,Texas
+Pasadena,Texas
+Tyler,Texas
+Houston,Texas
+Freeport,Texas
+Conroe,Texas
+Huntsville,Texas
+Bay City,Texas
+Bryan,Texas
+Sherman,Texas
+Port Lavaca,Texas
+Dallas,Texas
+Victoria,Texas
+Arlington,Texas
+Denton,Texas
+Waco,Texas
+Ft. Worth,Texas
+Temple,Texas
+Cleburne,Texas
+Corpus Christi,Texas
+Brownsville,Texas
+Harlingen,Texas
+Killeen,Texas
+Austin,Texas
+Beeville,Texas
+Kingsville,Texas
+San Marcos,Texas
+Alice,Texas
+New Braunfels,Texas
+Falfurrias,Texas
+Edinburg,Texas
+McAllen,Texas
+Wichita Falls,Texas
+San Antonio,Texas
+Brownwood,Texas
+Vernon,Texas
+Laredo,Texas
+Abilene,Texas
+Childress,Texas
+San Angelo,Texas
+Eagle Pass,Texas
+Del Rio,Texas
+Big Spring,Texas
+Amarillo,Texas
+Lubbock,Texas
+Dumas,Texas
+Midland,Texas
+Odessa,Texas
+Hereford,Texas
+Dalhart,Texas
+Fort Stockton,Texas
+Pecos,Texas
+Alpine,Texas
+Van Horn,Texas
+El Paso,Texas
+Monticello,Utah
+Vernal,Utah
+Moab,Utah
+Price,Utah
+Provo,Utah
+Logan,Utah
+Nephi,Utah
+Salt Lake City,Utah
+Ogden,Utah
+Richfield,Utah
+Kanab,Utah
+Parowan,Utah
+Cedar City,Utah
+St. George,Utah
+Montpelier,Vermont
+Burlington,Vermont
+Virginia Beach,Virginia
+Norfolk,Virginia
+Hampton,Virginia
+Alexandria,Virginia
+Petersburg,Virginia
+Richmond,Virginia
+Fredericksburg,Virginia
+Winchester,Virginia
+Charlottesville,Virginia
+Harrisonburg,Virginia
+Lynchburg,Virginia
+Danville,Virginia
+Roanoke,Virginia
+Blacksburg,Virginia
+Bristol,Virginia
+Spokane,Washington
+Walla Walla,Washington
+Kennewick,Washington
+Richland,Washington
+Wenatchee,Washington
+Yakima,Washington
+Everett,Washington
+Seattle,Washington
+Bellingham,Washington
+Tacoma,Washington
+Vancouver,Washington
+Bremerton,Washington
+Olympia,Washington
+Longview,Washington
+Centralia,Washington
+Aberdeen,Washington
+Morgantown,West Virginia
+White Sulphur Springs,West Virginia
+Clarksburg,West Virginia
+Wheeling,West Virginia
+Beckley,West Virginia
+Parkersburg,West Virginia
+Charleston,West Virginia
+Huntington,West Virginia
+Marinette,Wisconsin
+Sheboygan,Wisconsin
+Racine,Wisconsin
+Milwaukee,Wisconsin
+Green Bay,Wisconsin
+West Bend,Wisconsin
+Waukesha,Wisconsin
+Appleton,Wisconsin
+Fond du Lac,Wisconsin
+Oshkosh,Wisconsin
+Janesville,Wisconsin
+Madison,Wisconsin
+Rhinelander,Wisconsin
+Wausau,Wisconsin
+Tomah,Wisconsin
+La Crosse,Wisconsin
+Eau Claire,Wisconsin
+Superior,Wisconsin
+Cheyenne,Wyoming
+Douglas,Wyoming
+Gillette,Wyoming
+Laramie,Wyoming
+Casper,Wyoming
+Rawlins,Wyoming
+Thermopolis,Wyoming
+Riverton,Wyoming
+Lander,Wyoming
+Powell,Wyoming
+Cody,Wyoming
+Green River,Wyoming

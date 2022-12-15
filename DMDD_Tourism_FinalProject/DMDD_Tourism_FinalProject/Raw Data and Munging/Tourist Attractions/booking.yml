@@ -1,0 +1,26 @@
+attraction_list:
+    css: div.NnEw9
+    xpath: null
+    multiple: true
+    type: Text
+    children:
+        name:
+            css: div.skFvHc
+            xpath: null
+            type: Text
+        rating:
+            css: span.KFi5wf
+            xpath: null
+            type: Text
+        reviews_count:
+            css: span.jdzyld
+            xpath: null
+            type: Text
+        description:
+            css: div.nFoFM
+            xpath: null
+            type: Text
+        image:
+            css: 'img[data-ils="3"]'
+            xpath: null
+            type: Image

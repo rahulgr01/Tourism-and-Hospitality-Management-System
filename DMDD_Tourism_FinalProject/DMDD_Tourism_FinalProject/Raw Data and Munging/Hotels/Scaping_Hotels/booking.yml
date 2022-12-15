@@ -1,0 +1,47 @@
+hotel:
+    css: 'div.d4924c9e74 div.a826ba81c4:nth-of-type(n+2)'
+    xpath: '//div[contains(concat(" ",normalize-space(@class)," ")," d4924c9e74 ")]//div[contains(concat(" ",normalize-space(@class)," ")," a826ba81c4 ")][position()>=2 and (position()-2) mod 1=0]'
+    multiple: true
+    type: Text
+    children:
+        name:
+            css: div.fcab3ed991
+            xpath: null
+            type: Text
+        location:
+            css: 'span.f4bd0794db:nth-of-type(1)'
+            xpath: null
+            type: Text
+        beds:
+            css: 'div.cb5b4b68a4 div.d8eab2cf7f'
+            xpath: null
+            type: Text
+        rating:
+            css: div.b5cd09854e.d10a6220b4
+            xpath: null
+            type: Text
+        rating_title:
+            css: 'div.b1e6dd8416 div.b5cd09854e'
+            xpath: null
+            type: Text
+        number_of_ratings:
+            css: 'div.b1e6dd8416 div.d8eab2cf7f'
+            xpath: null
+            type: Text
+        price:
+            css: span.fcab3ed991
+            xpath: null
+            type: Text
+        price_for:
+            css: 'div[data-testid="availability-rate-information"] div.d8eab2cf7f'
+            xpath: null
+            type: Text
+        image:
+            css: img.b8b0793b0e
+            xpath: null
+            type: Image
+        url:
+            css: 'div[data-testid="availability-cta"] a.fc63351294'
+            xpath: null
+            type: Link
+        
